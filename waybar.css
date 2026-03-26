@@ -74,7 +74,10 @@ button:hover {
 }
 
 
-#clock,
+#clock {
+	color: #90EE90;
+}
+
 #battery,
 #cpu,
 #custom-cpu_speed,
@@ -107,7 +110,7 @@ button:hover {
 }
 
 #custom-cpu_speed {
-    color: #518e1a;
+    color: #90EE90;
     border-radius: 0px 0px 0px 0px;
 }
 
