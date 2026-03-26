@@ -5,11 +5,11 @@
 }
 
 window#waybar {
-    background: rgba(0, 0, 0, 0.87);
+    background: #5d0f0f;
     border-width: 2px;
-    border-color: #5f27cd;
+    border-color: #9a88b8;
     border-style: solid;
-    border-radius: 0px;
+    border-radius: 5px;
 }
 
 button.focused {
@@ -107,7 +107,7 @@ button:hover {
 }
 
 #custom-cpu_speed {
-    color: #C57BDB;
+    color: #518e1a;
     border-radius: 0px 0px 0px 0px;
 }
 
