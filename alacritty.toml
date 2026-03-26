@@ -1,0 +1,13 @@
+import = [
+        "/home/wakaliga/.config/alacritty/themes/themes/catppuccin_macchiato.toml"
+]
+
+working_directory = "/home/wakaliga/"
+
+[window]
+
+decorations = "None"
+opacity = 0.8
+blur = true
+
+[colors]
