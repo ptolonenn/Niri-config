@@ -79,7 +79,9 @@ button:hover {
 }
 
 #battery,
-#cpu,
+#cpu {
+    color: #7bc275;
+}
 #custom-cpu_speed,
 #custom-media,
 #custom-powermenu,
